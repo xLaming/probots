@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Chats - xatwiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Chats","wgTitle":"Chats","wgCurRevisionId":133767,"wgRevisionId":133767,"wgArticleId":169,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chats","wgRelevantArticleId":169,"wgIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgTranslatePageTranslation":"source"});mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.uls.init","ext.uls.interface"]);
+} );</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=ext.translate%7Cext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook" />
+<!--[if IE 6]><link rel="stylesheet" href="/wiki/skins/MonoBook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/wiki/skins/MonoBook/IE70Fixes.css?303" media="screen" /><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=monobook" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.26.3" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="xatwiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://util.xat.com/wiki/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="xatwiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Chats skin-monobook action-view">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+				
+				<div class="mw-indicators">
+</div>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Chats</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From xatwiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-pt-languages noprint" lang="en" dir="ltr"><div class="mw-pt-languages-label">Other languages:</div><div class="mw-pt-languages-list autonym"><a href="/wiki/index.php?title=Chats/ar" title="الشاتات (29% translated)" class="mw-pt-progress mw-pt-progress--low">العربية</a> • ‎<a href="/wiki/index.php?title=Chats/de" title="Chats (14% translated)" class="mw-pt-progress mw-pt-progress--stub">Deutsch</a> • ‎<span class="mw-pt-languages-ui mw-pt-languages-selected mw-pt-progress mw-pt-progress--complete">English</span> • ‎<a href="/wiki/index.php?title=Chats/es" title="Chats (100% translated)" class="mw-pt-progress mw-pt-progress--complete">español</a> • ‎<a href="/wiki/index.php?title=Chats/et" title="Jututoad (100% translated)" class="mw-pt-progress mw-pt-progress--complete">eesti</a> • ‎<a href="/wiki/index.php?title=Chats/fr" title="Chats (100% translated)" class="mw-pt-progress mw-pt-progress--complete">français</a> • ‎<a href="/wiki/index.php?title=Chats/it" title="Chat (100% translated)" class="mw-pt-progress mw-pt-progress--complete">italiano</a> • ‎<a href="/wiki/index.php?title=Chats/pl" title="Czaty (14% translated)" class="mw-pt-progress mw-pt-progress--stub">polski</a> • ‎<a href="/wiki/index.php?title=Chats/pt-br" title="Chats (100% translated)" class="mw-pt-progress mw-pt-progress--complete">português do Brasil</a> • ‎<a href="/wiki/index.php?title=Chats/ro" title="Chaturi (100% translated)" class="mw-pt-progress mw-pt-progress--complete">română</a> • ‎<a href="/wiki/index.php?title=Chats/th" title="Chats (14% translated)" class="mw-pt-progress mw-pt-progress--stub">ไทย</a> • ‎<a href="/wiki/index.php?title=Chats/tl" title="Chats (100% translated)" class="mw-pt-progress mw-pt-progress--complete">Tagalog</a> • ‎<a href="/wiki/index.php?title=Chats/tr" title="Siteler (100% translated)" class="mw-pt-progress mw-pt-progress--complete">Türkçe</a></div></div>
+<h2><span class="mw-headline" id="Official_xat_Chats">Official xat Chats</span></h2>
+<ul><li>The term "Official" refers to ownership of the chat group by xat.com </li>
+<li>Though xat.com staff do not run these chats, they are owned by xat.com and are managed by appointed users.</li></ul>
+<div style="margin: 25px 0; width:100%">
+<div style="display:inline-flex; position: relative">
+<table class="wikitable" style="float:left; margin: 0 15px 15px 0">
+<tr>
+<th colspan="2"> Help Chats </th>
+<th> Debug </th>
+<th> Manager </th>
+<th> Language <div class="plainlinks" style="position: absolute; top:0; right:0; margin:-15px 3px 0 0"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://util.xat.com/wiki/index.php?title=Chats/help&amp;action=edit"><img src="http://i.imgur.com/ZAXUM2c.png" alt="ZAXUM2c.png" /></a></div>
+</th></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Aide">Aide</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=220000913">Ghost</a>  </td>
+<td> French
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Aiuto">Aiuto</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=32646043">Vale</a>  </td>
+<td> Italian
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Ajuda">Ajuda</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=2300000">Guinho</a>  </td>
+<td> Portuguese
+</td></tr>
+<tr>
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Ajutor">Ajutor</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=1700000">Mihay</a>  </td>
+<td> Romanian
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Assistance">Assistance</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=82756724">Arthur</a>  </td>
+<td> International
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Ayuda">Ayuda</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=77774873">Wiki</a>  </td>
+<td> Spanish
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Chuai">Chuai</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=10000000">Away</a>  </td>
+<td> Thai
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Helfen">Helfen</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=388275558">mino</a>  </td>
+<td> German
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Help">Help</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=1010208">Brandon</a>  </td>
+<td> English
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Mosa3adeh">Mosa3adeh</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=99078573">Idima</a>  </td>
+<td> Arabic
+</td></tr>
+<tr>
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Ndim">Ndim</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=4400000">Sony</a>  </td>
+<td> Albanian
+</td></tr>
+<tr>
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Pomoc">Pomoc</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=237505039">Mia</a>  </td>
+<td> Bosnian  Croatian  Serbian
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Pomocy">Pomocy</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=1475910158">Luca</a>  </td>
+<td> Polish
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Yardim">Yardim</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=869659734">Sevda</a>  </td>
+<td> Turkish
+</td></tr>
+<tr>
+<td style="width:20px; background:#c4ffc0; border-width: 2px 1px 0 0"> </td>
+<td colspan="4" style="border-width: 2px 0 0 0"> Active chat group
+</td></tr></table></div>
+<div style="display:inline-flex; position: relative">
+<table class="wikitable" style="float:left; margin: 0 15px 15px 0">
+<tr>
+<th colspan="2"> Trade Chats </th>
+<th> Debug </th>
+<th> Manager </th>
+<th> Language <div class="plainlinks" style="position: absolute; top:0; right:0; margin:-15px 3px 0 0"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://util.xat.com/wiki/index.php?title=Chats/trade&amp;action=edit"><img src="http://i.imgur.com/ZAXUM2c.png" alt="ZAXUM2c.png" /></a></div>
+</th></tr>
+<tr>
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Baratto">Baratto</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=313558511">Davide</a>  </td>
+<td> Italian
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Cambio">Cambio</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=77774873">Wiki</a>  </td>
+<td> Spanish
+</td></tr>
+<tr>
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Comert">Comert</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=79600011">MuMy</a>  </td>
+<td> Romanian
+</td></tr>
+<tr>
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Commerce">Commerce</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=1690000">Scar</a>  </td>
+<td> French
+</td></tr>
+<tr>
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Ticaret">Ticaret</a> </td>
+<td> No </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=10000690">Cupim</a>  </td>
+<td> Turkish
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Trade">Trade</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=1070">Maverick</a>  </td>
+<td> English
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Troca">Troca</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=1991">Exit</a>  </td>
+<td> Portuguese
+</td></tr>
+<tr>
+<td style="width:20px; background:#c4ffc0; border-width: 2px 1px 0 0"> </td>
+<td colspan="4" style="border-width: 2px 0 0 0"> Active chat group
+</td></tr></table></div>
+<div style="display:inline-flex; position: relative">
+<table class="wikitable" style="float:left; margin: 0 15px 15px 0">
+<tr>
+<th colspan="2"> Other Chats </th>
+<th> Debug </th>
+<th> Manager </th>
+<th> Language <div class="plainlinks" style="position: absolute; top:0; right:0; margin:-15px 3px 0 0"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://util.xat.com/wiki/index.php?title=Chats/omisc&amp;action=edit"><img src="http://i.imgur.com/ZAXUM2c.png" alt="ZAXUM2c.png" /></a></div>
+</th></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Chat">Chat</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=17933">Verite</a> / <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=80645632">Chippy</a> </td>
+<td> International
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Flirt">Flirt</a> </td>
+<td> No </td>
+<td> N/A  </td>
+<td> English
+</td></tr>
+<tr>
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Freewebs">Freewebs</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=83735214">Paul</a> / <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=307940269">Avolition</a> </td>
+<td> English
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Game">Game</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=400004803">Steven</a> / <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=19032000">Chelly</a> </td>
+<td> International
+</td></tr>
+<tr>
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Jeux">Jeux</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=1690000">Scar</a>  </td>
+<td> French
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/La_Stanza">La_Stanza</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=313558511">Davide</a>  </td>
+<td> Italian
+</td></tr>
+<tr>
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Lobby">Lobby</a> </td>
+<td> No </td>
+<td> N/A  </td>
+<td> English
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Social">Social</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=41723932">Jamesey</a>  </td>
+<td> International
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Sohbet">Sohbet</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=869659734">Sevda</a>  </td>
+<td> Turkish
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/xat_Test">xat_Test</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=1070">Maverick</a>  </td>
+<td> English
+</td></tr>
+<tr>
+<td style="width:20px; background:#c4ffc0; border-width: 2px 1px 0 0"> </td>
+<td colspan="4" style="border-width: 2px 0 0 0"> Active chat group
+</td></tr></table></div>
+</div><div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Unofficial_.2F_Tribute_Chats">Unofficial / Tribute Chats</span></h2>
+<ul><li>The term "Tribute" refers to a chat group that may be a useful resource.</li>
+<li>These chat groups are not run by xat.</li></ul>
+<ul><li>These chat groups might be monitored by staff from <b>Not affiliated xat.com sites</b>.</li></ul>
+<div style="margin: 25px 0; width:100%">
+<div style="display:inline-flex; position: relative">
+<table class="wikitable" style="float:left; margin: 0 15px 15px 0">
+<tr>
+<th colspan="2"> Design&#160;Chats </th>
+<th> Debug </th>
+<th> Owner </th>
+<th> Language <div class="plainlinks" style="position: absolute; top:0; right:0; margin:-15px 3px 0 0"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://util.xat.com/wiki/index.php?title=Chats/design&amp;action=edit"><img src="http://i.imgur.com/ZAXUM2c.png" alt="ZAXUM2c.png" /></a></div>
+</th></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Fondos">Fondos</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=1501663209">Maick</a> / <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=824213804">Leonard</a> </td>
+<td> Spanish
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Fundos">Fundos</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=2300000">Guinho</a>  </td>
+<td> Portuguese
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Graphics">Graphics</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=79328863">Elie</a>  </td>
+<td> English
+</td></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Krapfik">Krapfik</a> </td>
+<td> No </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=10000000">Kom</a>  </td>
+<td> Thai
+</td></tr>
+<tr>
+<td style="width:20px; background:#c4ffc0; border-width: 2px 1px 0 0"> </td>
+<td colspan="4" style="border-width: 2px 0 0 0"> Active chat group
+</td></tr></table></div>
+<div style="display:inline-flex; position: relative">
+<table class="wikitable" style="float:left; margin: 0 15px 15px 0">
+<tr>
+<th colspan="2"> Other&#160;Chats </th>
+<th> Debug </th>
+<th> Owner </th>
+<th> Language <div class="plainlinks" style="position: absolute; top:0; right:0; margin:-15px 3px 0 0"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://util.xat.com/wiki/index.php?title=Chats/tmisc&amp;action=edit"><img src="http://i.imgur.com/ZAXUM2c.png" alt="ZAXUM2c.png" /></a></div>
+</th></tr>
+<tr style="background:#c4ffc0">
+<td colspan="2"> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/Mundoxat">Mundoxat</a> </td>
+<td> Yes </td>
+<td> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=397739">Tikita</a> / <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/i=98724667">TNT</a> </td>
+<td> Spanish
+</td></tr>
+<tr>
+<td style="width:20px; background:#c4ffc0; border-width: 2px 1px 0 0"> </td>
+<td colspan="4" style="border-width: 2px 0 0 0"> Active chat group
+</td></tr></table></div>
+</div>
+
+<!-- 
+NewPP limit report
+Cached time: 20160530104946
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.263 seconds
+Real time usage: 0.473 seconds
+Preprocessor visited node count: 1204/1000000
+Preprocessor generated node count: 1670/1000000
+Post‐expand include size: 11339/2097152 bytes
+Template argument size: 1575/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   76.815      1 - -total
+ 64.44%   49.503     36 - Chats/list
+ 36.15%   27.768      1 - Chats/help
+ 23.06%   17.716      1 - Chats/omisc
+ 18.31%   14.061      1 - Chats/trade
+ 11.51%    8.845      1 - Chats/design
+  5.40%    4.147      1 - Chats/tmisc
+  3.31%    2.544      5 - Template:Img/edit
+-->
+
+<!-- Saved in parser cache with key wikidb2:pcache:idhash:169-0!*!*!!en!*!* and timestamp 20160530104945 and revision id 133767
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://util.xat.com/wiki/index.php?title=Chats&amp;oldid=133767">http://util.xat.com/wiki/index.php?title=Chats&amp;oldid=133767</a>"</div>
+					<div id='catlinks' class='catlinks catlinks-allhidden'></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/index.php?title=Chats" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/wiki/index.php?title=Talk:Chats&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/wiki/index.php?title=Chats&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/wiki/index.php?title=Chats&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-uls" class="active"><a href="#" class="uls-trigger autonym">English</a></li>
+													<li id="pt-login"><a href="/wiki/index.php?title=Special:UserLogin&amp;returnto=Chats" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/index.php?title=Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-FAQ"><a href="/wiki/index.php?title=FAQ">FAQ</a></li>
+											<li id="n-Users-Guide"><a href="/wiki/index.php?title=Users_Guide">Users Guide</a></li>
+											<li id="n-Owner-Guide"><a href="/wiki/index.php?title=Owners_Guide">Owner Guide</a></li>
+											<li id="n-xats-Guide"><a href="/wiki/index.php?title=Xats">xats Guide</a></li>
+											<li id="n-Subscribers-Guide"><a href="/wiki/index.php?title=Subscribers_Guide">Subscribers Guide</a></li>
+											<li id="n-Powers"><a href="/wiki/index.php?title=Powers">Powers</a></li>
+											<li id="n-Trading"><a href="/wiki/index.php?title=Trading">Trading</a></li>
+											<li id="n-Applications"><a href="/wiki/index.php?title=Applications">Applications</a></li>
+											<li id="n-Profiles"><a href="/wiki/index.php?title=Profiles">Profiles</a></li>
+											<li id="n-Phishing"><a href="/wiki/index.php?title=Phishing">Phishing</a></li>
+											<li id="n-External-Resources"><a href="/wiki/index.php?title=ExternalResources">External Resources</a></li>
+											<li id="n-Special-Thanks"><a href="/wiki/index.php?title=Special_Thanks">Special Thanks</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Translator" role="navigation">
+		<h3>Translator</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Translate"><a href="/wiki/index.php?title=Special:Translate">Translate</a></li>
+											<li id="n-The-Translators"><a href="/wiki/index.php?title=Wiki_Editors">The Translators</a></li>
+											<li id="n-Apply"><a href="/wiki/index.php?title=Apply">Apply</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-headerbar" role="navigation">
+		<h3>headerbar</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-wiki"><a href="http://xat.com/wiki" rel="nofollow" target="_blank">wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/wiki/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search xatwiki [f]" accesskey="f" id="searchInput" />
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton" />&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/index.php?title=Special:WhatLinksHere/Chats" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/index.php?title=Special:RecentChangesLinked/Chats" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/wiki/index.php?title=Chats&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/wiki/index.php?title=Chats&amp;oldid=133767" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/wiki/index.php?title=Chats&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last modified on 23 November 2015, at 16:52.</li>
+									<li id="privacy"><a href="/wiki/index.php?title=Xatwiki:Privacy_policy" title="Xatwiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/index.php?title=Xatwiki:About" title="Xatwiki:About">About xatwiki</a></li>
+									<li id="disclaimer"><a href="/wiki/index.php?title=Xatwiki:General_disclaimer" title="Xatwiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.uls.pt"]);
+} );</script>
+<script src="//meta.wikimedia.org/geoiplookup"></script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":130});
+} );</script></body></html>

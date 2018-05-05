@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Volunteers - xatwiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Volunteers","wgTitle":"Volunteers","wgCurRevisionId":176527,"wgRevisionId":176527,"wgArticleId":488,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Volunteers","wgRelevantArticleId":488,"wgIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgTranslatePageTranslation":"source"});mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.uls.init","ext.uls.interface"]);
+} );</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=ext.translate%7Cext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook" />
+<!--[if IE 6]><link rel="stylesheet" href="/wiki/skins/MonoBook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/wiki/skins/MonoBook/IE70Fixes.css?303" media="screen" /><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=monobook" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<meta name="generator" content="MediaWiki 1.26.3" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="xatwiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://util.xat.com/wiki/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="xatwiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Volunteers skin-monobook action-view">
+<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+				
+				<div class="mw-indicators">
+</div>
+				<h1 id="firstHeading" class="firstHeading" lang="en">Volunteers</h1>
+				
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From xatwiki</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div dir="ltr" class="rtlfix" style="position: absolute; top: 7px; margin: 0 12px">
+<table cellspacing="0">
+<tr>
+<td style="color: #f7fff0; border:1px solid #0076ff; background:#288cff; border-top-left-radius: 5px; border-bottom-left-radius: 5px; padding:2px 5px 0 5px"> Shortcut:
+</td>
+<td class="plainlinks" style="border:2px solid #0076ff; border-left:0; border-top-right-radius: 5px; border-bottom-right-radius: 5px; padding:2px 5px 0 5px"> http:&#47;/xat.wiki/vols
+</td></tr></table>
+</div>
+<div class="mw-pt-languages noprint" lang="en" dir="ltr"><div class="mw-pt-languages-label">Other languages:</div><div class="mw-pt-languages-list autonym"><a href="/wiki/index.php?title=Volunteers/ar" title="المتطوعين (90% translated)" class="mw-pt-progress mw-pt-progress--complete">العربية</a> • ‎<a href="/wiki/index.php?title=Volunteers/de" title="Freiwillige (60% translated)" class="mw-pt-progress mw-pt-progress--high">Deutsch</a> • ‎<span class="mw-pt-languages-ui mw-pt-languages-selected mw-pt-progress mw-pt-progress--complete">English</span> • ‎<a href="/wiki/index.php?title=Volunteers/es" title="Voluntarios (100% translated)" class="mw-pt-progress mw-pt-progress--complete">español</a> • ‎<a href="/wiki/index.php?title=Volunteers/et" title="Vabatahtlikud (70% translated)" class="mw-pt-progress mw-pt-progress--high">eesti</a> • ‎<a href="/wiki/index.php?title=Volunteers/fr" title="Bénévoles (100% translated)" class="mw-pt-progress mw-pt-progress--complete">français</a> • ‎<a href="/wiki/index.php?title=Volunteers/it" title="Volontari (100% translated)" class="mw-pt-progress mw-pt-progress--complete">italiano</a> • ‎<a href="/wiki/index.php?title=Volunteers/pl" title="Wolontariusze (60% translated)" class="mw-pt-progress mw-pt-progress--high">polski</a> • ‎<a href="/wiki/index.php?title=Volunteers/pt-br" title="Voluntários (100% translated)" class="mw-pt-progress mw-pt-progress--complete">português do Brasil</a> • ‎<a href="/wiki/index.php?title=Volunteers/ro" title="Voluntari (100% translated)" class="mw-pt-progress mw-pt-progress--complete">română</a> • ‎<a href="/wiki/index.php?title=Volunteers/th" title="อาสาสมัคร (80% translated)" class="mw-pt-progress mw-pt-progress--complete">ไทย</a> • ‎<a href="/wiki/index.php?title=Volunteers/tl" title="Mga Volunteers (100% translated)" class="mw-pt-progress mw-pt-progress--complete">Tagalog</a> • ‎<a href="/wiki/index.php?title=Volunteers/tr" title="Gönüllüler (100% translated)" class="mw-pt-progress mw-pt-progress--complete">Türkçe</a></div></div>
+<ul><li>They are <b>not xat staff</b>, they volunteer their time to help xat. </li>
+<li>The xat Volunteers have no special indication on the chat (e.g. they <b>do not appear as xat staff</b>, they appear as any normal user).</li>
+<li>The xat Volunteers <b>will not ask for your personal information</b> on other websites like Facebook or Twitter.</li>
+<li>Never give your password to any volunteer or xat staff, even if you are sure they are real.</li>
+<li><i><b>If you notice any user who claims he/she is a Volunteer and they are not on this page please report them to us immediately. To do so click <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/ticket">here</a>.</b></i></li></ul>
+<h2><span class="mw-headline" id="Support_Tickets">Support Tickets</span></h2>
+<ul><li><i>The following users have the power to answer tickets on <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.com/ticket">the xat  support ticket system</a>:</i>
+<ul><li><i>Please <b>NOTE</b> that it is considered bad etiquette to ask a xat Volunteer to reply to your ticket. <br />Please understand that xat receives a countless amount of support tickets on a daily basis. Patience and understanding in this matter is greatly appreciated!</i></li></ul></li></ul>
+<div style="position: relative; display: inline-block">
+<table class="wikitable">
+<tr>
+<th>Name: </th>
+<th> xat ID: <div class="plainlinks" style="position: absolute; top:0; right:0; margin:-2px -12px 0 0"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://util.xat.com/wiki/index.php?title=Template:List_of_ticket_volunteers&amp;action=edit"><img src="http://i.imgur.com/ZAXUM2c.png" alt="ZAXUM2c.png" /></a></div>
+</th></tr>
+<tr>
+<td> <b>Andre</b> <img src="http://xat.com/images/smw/flag/ee.png" alt="ee.png" /></td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Andre">Andre</a></span> (112633)
+</td></tr>
+<tr>
+<td> <b>Brandon</b> <img src="http://xat.com/images/smw/flag/us.png" alt="us.png" /></td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Brandon">Brandon</a></span> (1010208)
+</td></tr>
+<tr>
+<td> <b>Cupim</b> <img src="http://xat.com/images/smw/flag/br.png" alt="br.png" /></td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Cupim">Cupim</a></span> (10000690)
+</td></tr>
+<tr>
+<td> <b>Cyan</b> </td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Cyan">Cyan</a></span> (283021491)
+</td></tr>
+<tr>
+<td> <b>Davide</b> <img src="http://xat.com/images/smw/flag/it.png" alt="it.png" /></td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Davide">Davide</a></span> (313558511)
+</td></tr>
+<tr>
+<td> <b>Elie</b> </td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Elie">Elie</a></span> (79328863)
+</td></tr>
+<tr>
+<td> <b>Ghost</b> <img src="http://xat.com/images/smw/flag/fr.png" alt="fr.png" /></td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Ghost">Ghost</a></span> (220000913)
+</td></tr>
+<tr>
+<td> <b>Jayden</b> <img src="http://xat.com/images/smw/flag/us.png" alt="us.png" /></td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Jayden">Jayden</a></span> (121040483)
+</td></tr>
+<tr>
+<td> <b>Mihay</b> <img src="http://xat.com/images/smw/flag/ro.png" alt="ro.png" /></td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Mihay">Mihay</a></span> (1700000)
+</td></tr>
+<tr>
+<td> <b>Nick</b> <img src="http://xat.com/images/smw/flag/us.png" alt="us.png" /></td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/xNick">xNick</a></span> (6960969)
+</td></tr>
+<tr>
+<td> <b>Storm</b> </td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Rida">Rida</a></span> (9900000)
+</td></tr>
+<tr>
+<td> <b>Vale</b> </td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Val3">Val3</a></span> (32646043)
+</td></tr></table></div>
+<h2><span class="mw-headline" id="Smiley_Makers">Smiley Makers</span></h2>
+<ul><li>The following users can make smilies/kisses/pawns/hugs which may be used on xat:</li></ul>
+<div style="position: relative; display: inline-block">
+<table class="wikitable">
+
+<tr>
+<th>Name: </th>
+<th> xat ID: <div class="plainlinks" style="position: absolute; top:0; right:0; margin:-2px -12px 0 0"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://util.xat.com/wiki/index.php?title=Template:List_of_smiley_makers&amp;action=edit"><img src="http://i.imgur.com/ZAXUM2c.png" alt="ZAXUM2c.png" /></a></div>
+</th></tr>
+<tr>
+<td> <b>Cupim</b> <img src="http://xat.com/images/smw/flag/br.png" alt="br.png" /></td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Cupim">Cupim</a></span> (10000690)
+</td></tr>
+<tr>
+<td> <b>Junior</b> <img src="http://xat.com/images/smw/flag/do.png" alt="do.png" /></td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Junii">Junii</a></span> (21299)
+</td></tr>
+<tr>
+<td> <b>Mihay</b> <img src="http://xat.com/images/smw/flag/ro.png" alt="ro.png" /></td>
+<td> <span class="plainlinks"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://xat.me/Mihay">Mihay</a></span> (1700000)
+</td></tr></table></div>
+<ul><li>For suggestions <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://forum.xat.com/forum/7-suggestions">Click here</a></li></ul>
+<h2><span class="mw-headline" id="How_to_become_a_Volunteer">How to become a Volunteer</span></h2>
+<ul><li>There is no step-by-step guide to becoming a Volunteer. </li>
+<li>You must have the qualifications xat staff is looking for (which is up to an admin to decide). Currently it is invite only, we are not accepting applications.</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20160530170137
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.171 seconds
+Real time usage: 0.384 seconds
+Preprocessor visited node count: 316/1000000
+Preprocessor generated node count: 702/1000000
+Post‐expand include size: 4376/2097152 bytes
+Template argument size: 382/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  363.534      1 - -total
+  4.19%   15.242      1 - Template:List_of_ticket_volunteers
+  2.76%   10.026     12 - Template:Volunteer
+  2.04%    7.429      1 - Template:List_of_smiley_makers
+  1.13%    4.110      3 - Template:Designer
+  1.03%    3.732      1 - Template:Shortcut
+  0.69%    2.500      2 - Template:Img/edit
+-->
+
+<!-- Saved in parser cache with key wikidb2:pcache:idhash:488-0!*!*!!en!*!* and timestamp 20160530170136 and revision id 176527
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://util.xat.com/wiki/index.php?title=Volunteers&amp;oldid=176527">http://util.xat.com/wiki/index.php?title=Volunteers&amp;oldid=176527</a>"</div>
+					<div id='catlinks' class='catlinks catlinks-allhidden'></div>					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/index.php?title=Volunteers" title="View the content page [c]" accesskey="c">Page</a></li>
+				<li id="ca-talk" class="new"><a href="/wiki/index.php?title=Talk:Volunteers&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/wiki/index.php?title=Volunteers&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/wiki/index.php?title=Volunteers&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-uls" class="active"><a href="#" class="uls-trigger autonym">English</a></li>
+													<li id="pt-login"><a href="/wiki/index.php?title=Special:UserLogin&amp;returnto=Volunteers" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/index.php?title=Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-FAQ"><a href="/wiki/index.php?title=FAQ">FAQ</a></li>
+											<li id="n-Users-Guide"><a href="/wiki/index.php?title=Users_Guide">Users Guide</a></li>
+											<li id="n-Owner-Guide"><a href="/wiki/index.php?title=Owners_Guide">Owner Guide</a></li>
+											<li id="n-xats-Guide"><a href="/wiki/index.php?title=Xats">xats Guide</a></li>
+											<li id="n-Subscribers-Guide"><a href="/wiki/index.php?title=Subscribers_Guide">Subscribers Guide</a></li>
+											<li id="n-Powers"><a href="/wiki/index.php?title=Powers">Powers</a></li>
+											<li id="n-Trading"><a href="/wiki/index.php?title=Trading">Trading</a></li>
+											<li id="n-Applications"><a href="/wiki/index.php?title=Applications">Applications</a></li>
+											<li id="n-Profiles"><a href="/wiki/index.php?title=Profiles">Profiles</a></li>
+											<li id="n-Phishing"><a href="/wiki/index.php?title=Phishing">Phishing</a></li>
+											<li id="n-External-Resources"><a href="/wiki/index.php?title=ExternalResources">External Resources</a></li>
+											<li id="n-Special-Thanks"><a href="/wiki/index.php?title=Special_Thanks">Special Thanks</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Translator" role="navigation">
+		<h3>Translator</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-Translate"><a href="/wiki/index.php?title=Special:Translate">Translate</a></li>
+											<li id="n-The-Translators"><a href="/wiki/index.php?title=Wiki_Editors">The Translators</a></li>
+											<li id="n-Apply"><a href="/wiki/index.php?title=Apply">Apply</a></li>
+									</ul>
+					</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-headerbar" role="navigation">
+		<h3>headerbar</h3>
+		<div class='pBody'>
+							<ul>
+											<li id="n-wiki"><a href="http://xat.com/wiki" rel="nofollow" target="_blank">wiki</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/wiki/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search" title="Search xatwiki [f]" accesskey="f" id="searchInput" />
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton" />&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />
+				</form>
+
+							</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/index.php?title=Special:WhatLinksHere/Volunteers" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/index.php?title=Special:RecentChangesLinked/Volunteers" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-specialpages"><a href="/wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/wiki/index.php?title=Volunteers&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/wiki/index.php?title=Volunteers&amp;oldid=176527" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/wiki/index.php?title=Volunteers&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+			</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last modified on 9 May 2016, at 18:00.</li>
+									<li id="privacy"><a href="/wiki/index.php?title=Xatwiki:Privacy_policy" title="Xatwiki:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/index.php?title=Xatwiki:About" title="Xatwiki:About">About xatwiki</a></li>
+									<li id="disclaimer"><a href="/wiki/index.php?title=Xatwiki:General_disclaimer" title="Xatwiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.uls.pt"]);
+} );</script>
+<script src="//meta.wikimedia.org/geoiplookup"></script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":123});
+} );</script></body></html>
