@@ -1,0 +1,62 @@
+To do:
+Abl -- HIGH
+Alias -- HIGHT
+Alert when have new power released -- HIGH
+Update current song -- HIGH
+Autoban -- HIGH
+Autokick -- HIGH
+Auto translate all -- NORMAL
+Autorank Type -- NORMAL
+Autorank only who said -- NORMAL
+Check if bot have the power // bans -- NORMAL
+KICK / No kick mods / owners -- NORMAL
+Add bad power as inapp...
+Anti captcha = <y I="32729" i="419378441" c="1468952069" cb="89" p="100_100_5_101" k="32729" t="10015" s="11"  />
+TEMPMOD WITH AWAY
+Always disable mint
+
+
+Remember only:
+!responses add/remove/edit/clear [blabla] [my response] (only can use [message] if is cmd_blablabla)
+!edit welcome/autowelcome [msg / off]
+!edit automember/automem [auto/registered/subscriber/math/...]
+!edit ecmdurl [BLA BLA]
+!alias add [command/command param] [new command]
+!rank add/remove [user] [rank]
+
+
+
+Ban system
+Ref system
+Dice system
+
+
+
+Done:
+Bot working without bugs
+Disable/enable powers
+Real time(api system)
+Filters: Caps Lock, Flood, Spam, Spam Smilies, Links, Inapps(kick then ban)
+Commands without chars
+Minrank - Custom mirank
+Prntscr Direct link - Custom
+ECMD - Custom
+Custom Commands - Custom
+Resend Guest Links
+Disable commands on private
+Free time: Promoted, Official/Tribute Chats, Volunteers
+[UPDATED ITS FREE] Payment system: 10x = 20h, 1day = 24h, 300x = 1 month/600x = 2 month
+Snitch - Snitchlist
+Added/remove friend
+Powers enabled on chat
+Stfu
+Bot can't say inapp words
+Mail system working
+Translations - Custom
+When online othr chat and click bot it will on your pvt
+
+
+
+Easter Eggs:
+!value PAULO will be always 666
+!love xlaming & ana will be always 100%
