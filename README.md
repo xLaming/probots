@@ -1,5 +1,5 @@
 # PROBots
-My old PROBots script **[needs to be updated]**
+My old PROBots script **[DEPRECATED]**
 
 This script is missing the table called **users** that contains: `idx`, `id`, `user`, `avatar`, `home`, `nick`, `status`, `powers`, `extrapowers`, `lastseen`, `d0`, `d2`, `optout`
 
